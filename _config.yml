@@ -1,0 +1,18 @@
+exclude: [README.md]
+title: SLPL
+url: "https://uva-slpl.github.io" # the base hostname & protocol for your site
+#baseurl: "/nlp2" # the subpath of your site, e.g. /blog/
+github_username:  uva-slpl
+#paginate: 3
+
+# useful links
+khalil_simaan: https://staff.fnwi.uva.nl/k.simaan/
+slpll_url: https://staff.fnwi.uva.nl/k.simaan/research_all.html
+illc_url: http://www.illc.uva.nl
+uva_url: http://www.uva.nl/en/home
+
+ksimaanstyle: Khalil Sima<font color="red">`</font>an
+
+# Build settings
+markdown: kramdown
+
