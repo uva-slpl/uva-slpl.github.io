@@ -1,5 +1,5 @@
 exclude: [README.md]
-title: SLPL
+title: Statistical Language Processing and Learning Lab
 url: "https://uva-slpl.github.io" # the base hostname & protocol for your site
 #baseurl: "/nlp2" # the subpath of your site, e.g. /blog/
 github_username:  uva-slpl
