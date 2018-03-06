@@ -1,10 +1,20 @@
 ---
 layout: main
+menu: no
 ---
 
-Perhaps you are looking for:
+# Courses
 
 * [NLP II](//uva-slpl.github.io/nlp2)
 * [NLMI](//uva-slpl.github.io/nlmi)
+
+# Activities
+
 * [Reading groups](//wilkeraziz.github.io/events.html)
-* [Lab page](//staff.fnwi.uva.nl/k.simaan/research_all.html)
+
+# Events
+
+**March 22 2018** 
+
+We are organising a [DGM day](dgmday), a mini workshop where we will present and discuss work on deep generative models in NLP. 
+
