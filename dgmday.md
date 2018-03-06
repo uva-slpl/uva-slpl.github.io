@@ -8,12 +8,12 @@ menu: no
 
 
 On March 22 2018 we are gathering to present and discuss work on deep generative models (DGMs) and their applications to natural language processing. 
-Our schedule will include a tutorial on variational inference (VI) and DMGs, research talks, and posters.
+Our schedule will include a tutorial on variational inference and DMGs, research talks, and posters.
 
 A complete schedule and location will be announced soon.
 
 
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=aci7h1ua23taamdbat5hu73h14%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="400" height="300" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=aci7h1ua23taamdbat5hu73h14%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="600" height="300" frameborder="0" scrolling="no"></iframe>
 
 
 # Programme
@@ -43,3 +43,20 @@ A complete schedule and location will be announced soon.
     * TBA
     * TBA
     * TBA
+
+# Contact
+
+The [SLPL lab](https://staff.fnwi.uva.nl/k.simaan/research_all.html) is hosting this event.
+
+Organisers:
+
+* Wilker Aziz
+* Miguel Rios
+* Philip Schulz
+* Khalil Sima'an
+
+Contact persons: [Wilker](mailto:w.aziz@uva.nl) and [Miguel](mailto:m.riosgaona@uva.nl)
+
+
+This event is supported by the Dutch Organization for Scientific Research (NWO) VICI Grant nr. 277-89-002.
+
