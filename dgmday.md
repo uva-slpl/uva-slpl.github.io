@@ -4,6 +4,7 @@ title: DGM day
 menu: no
 ---
 
+![logo](/img/events/dgmday/logo.png){: style="float: right; margin: 0px 20px; height: 180px" }
 # Deep generative models in NLP
 
 
