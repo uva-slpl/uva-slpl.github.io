@@ -1,0 +1,326 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
+  title: "Deep Generative Model for Joint Alignment and Word Representation"
+  authors: "Miguel Rios, Wilker Aziz, Khalil Sima'an"
+  arxiv: //arxiv.org/abs/1802.05883
+  code: //github.com/uva-slpl/embedalign
+  booktitle: "To appear in NAACL18"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2017
+  title: "Graph Convolutional Encoders for Syntax-aware Neural Machine Translation"
+  authors: "Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima'an"
+  doc-url: //www.aclweb.org/anthology/D/D17/D17-1209.pdf
+  arxiv: //arxiv.org/pdf/1704.04675.pdf 
+  booktitle: "EMNLP"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2017
+  title: "Neural Discontinuous Constituency Parsing"
+  authors: "Miloš Stanojević and Raquel G. Alhama"
+  doc-url: //www.aclweb.org/anthology/D17-1174
+  booktitle: "EMNLP"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2017
+  title: "Alternative Objective Functions for Training MT Evaluation Metrics"
+  authors: "Miloš Stanojević and Khalil Sima'an"
+  doc-url: //aclweb.org/anthology/P/P17/P17-2004.pdf
+  booktitle: "ACL"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2016
+  title: "Universal Reordering via Linguistic Typology"
+  authors: "Daiber, J., Stanojević, M., and Sima'an, K."
+  doc-url: //aclweb.org/anthology/C16-1298
+  booktitle: "COLING"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2016
+  title: "Fast Collocation-Based Bayesian HMM Word Alignment"
+  authors: "Philip Schulz and Wilker Aziz"
+  booktitle: "COLING"
+  doc-url: //www.aclweb.org/anthology/C/C16/C16-1296.pdf
+  code: //github.com/philschulz/Aligner 
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2016
+  title: "Hierarchical Permutation Complexity for Word Order Evaluation "
+  authors: "Miloš Stanojević and Khalil Sima'an"
+  doc-url: //aclweb.org/anthology/C/C16/C16-1204.pdf
+  booktitle: "COLING"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2016
+  title: "Examining the Relationship between Preordering and Word Order Freedom in Machine Translation"
+  authors: "Joachim Daiber, Miloš Stanojević, Wilker Aziz and Khalil Sima'an"
+  booktitle: "WMT" 
+  doc-url: //aclweb.org/anthology/W/W16/W16-2213.pdf
+  slides: //jodaiber.github.io/doc/wmt2016_slides.pdf
+  code: //github.com/wilkeraziz/mosesdecoder/tree/RELEASE-3.0
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2016
+  title: "Word alignment without NULL words"
+  authors: "Philip Schulz, Wilker Aziz and Khalil Sima'an"
+  booktitle: "ACL"
+  doc-url: //www.aclweb.org/anthology/P/P16/P16-2028.pdf
+  code: //github.com/philschulz/Aligner 
+  poster: /poster/acl2016.pdf
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2016
+  title: "Minimalist Grammar Transition-Based Parsing"
+  authors: "Miloš Stanojević"
+  doc-url: //link.springer.com/chapter/10.1007/978-3-662-53826-5_17
+  slides: //stanojevic.github.io/papers/2016_LACL_minimalist_parsing_presentation.pdf 
+  booktitle: "LACL"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  title: "Machine Translation with Source-Predicted Target Morphology"
+  authors: "Daiber, J. and Sima'an, K"
+  doc-url: //jodaiber.github.io/doc/mtsummit2015.pdf
+  poster: //jodaiber.github.io/doc/mtsummit2015_poster.pdf
+  slides: //jodaiber.github.io/doc/clin2015_slides.pdf
+  booktitle: "MT Summit"
+- layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  title: "Splitting Compounds by Semantic Analogy"
+  authors: "Daiber, J., Quiroz, L., Wechsler, R. and Frank, S."
+  booktitle: Deep MT Workshop
+  talk: //jodaiber.github.io/doc/compound_analogy_slides.pdf
+  code: //github.com/jodaiber/semantic_compound_splitting
+  doc-url: //aclweb.org/anthology/W15-5703
+- layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  title: "Delimiting Morphosyntactic Search Space with Source-Side Reordering Models"
+  authors: "Daiber, J. and Sima'an, K."
+  booktitle: Deep MT Workshop
+  talk: //jodaiber.github.io/doc/preordering_spaces_slides.pdf
+  doc-url: //aclweb.org/anthology/W15-5704
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  title: "Grasp: Randomised Semiring Parsing"
+  authors: Wilker Aziz
+  booktitle: PBML
+  doc-url: //ufal.mff.cuni.cz/pbml/104/art-aziz.pdf
+  code: //github.com/wilkeraziz/grasp
+  poster: /posters/mtmpbml2015.pdf
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  title: "Reordering Grammar Induction"
+  authors: "Miloš Stanojević and Khalil Sima'an"
+  doc-url: //www.aclweb.org/anthology/D15-1005
+  talk: //vimeo.com/154053492 
+  booktitle: "EMNLP"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  title: "Evaluating MT systems with BEER "
+  authors: "Miloš Stanojević and Khalil Sima'an"
+  doc-url: //ufal.mff.cuni.cz/pbml/104/art-stanojevic-simaan.pdf
+  booktitle: "PBML"
+  code: https://github.com/stanojevic/beer
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2014
+  title: "Fitting Sentence Level Translation Evaluation with Many Dense Features "
+  authors: "Miloš Stanojević and Khalil Sima'an"
+  doc-url: //www.aclweb.org/anthology/D/D14/D14-1025.pdf 
+  booktitle: "EMNLP"
+  code: https://github.com/stanojevic/beer
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2014
+  title: "Evaluating Word Order Recursively over Permutation-Forests "
+  authors: "Miloš Stanojević and Khalil Sima'an"
+  doc-url: //www.aclweb.org/anthology/W14-4017 
+  booktitle: "SSST"
+  code: https://github.com/stanojevic/beer
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2014
+  title: "BEER: BEtter Evaluation as Ranking "
+  authors: "Miloš Stanojević and Khalil Sima'an"
+  doc-url: //www.aclweb.org/anthology/W14-3354
+  booktitle: "WMT"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2017
+  title: "Elastic-substitution decoding for Hierarchical SMT: efficiency, richer search and double labels."
+  authors: "Gideon Maillette de Buy Wenniger, Khalil Sima'an and Andy Way"
+  doc-url: //computing.dcu.ie/%7Egmdbwenniger/EfficientElasticSubstitutionDecodingForHierarchicalSMT.pdf
+  slides: //computing.dcu.ie/%7Egmdbwenniger/EfficientElasticSubstitutionDecodingPresentationMTSummit2017.pdf
+  code: //bitbucket.org/gwenniger/labeled-translation/
+  booktitle: MT Summit
+-
+  layout: paper
+  paper-type: article
+  selected: y
+  year: 2017
+  title: "Induction of Latent Domains in Heterogeneous Corpora: A Case Study of Word Alignment"
+  authors: "Hoang Cuong and Khalil Sima'an"
+  booktitle: To appear in MT Journal
+-
+  layout: paper
+  paper-type: article
+  selected: y
+  year: 2017
+  title: A Survey of Domain Adaptation for Statistical Machine Translation
+  authors: "Hoang Cuong and Khalil Sima'an"
+  booktitle: To appear in MT Journal
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2016
+  title: "Factoring Adjunction in Phrase-based SMT"
+  authors: "Sophie Arnoult and Khalil Sima'an" 
+  doc-url: http://www.aclweb.org/anthology/W16-6402 
+  booktitle: Deep MT Workshop
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2016
+  title: "Multi30K: Multilingual English-German Image Descriptions"
+  authors: "Desmond Elliott, Stella Frank, Khalil Sima’an, and Lucia Specia"
+  doc-url: http://aclweb.org/anthology/W16-3210.pdf
+  arxiv: https://arxiv.org/abs/1605.00459
+  booktitle: Workshop on Vision and Language 
+-
+  layout: paper
+  paper-type: article
+  selected: y
+  year: 2016
+  title: "Adapting to All Domains at Once: Rewarding Domain Invariance in SMT"
+  authors: "Hoang Cuong, Khalil Sima'an and Ivan Titov"
+  doc-url: http://www.aclweb.org/anthology/Q/Q16/Q16-1008.pdf
+  booktitle: TACL
+-
+  layout: paper
+  paper-type: article
+  selected: y
+  year: 2016
+  title: "Labeling Hierarchical Phrase-Based Models without Linguistic Resources"
+  authors: "Gideon Maillette de Buy Wenniger and Khalil Sima'an"
+  doc-url: https://link.springer.com/article/10.1007/s10590-015-9177-0
+  booktitle: MT Journal
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  title: "Latent Domain Word Alignment for Heterogeneous Corpora"
+  authors: "Hoang Cuong and Khalil Sima'an"
+  doc-url: https://aclanthology.info/pdf/N/N15/N15-1043.pdf
+  booktitle: NAACL
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  title: "Modelling the Adjunct/Argument Distinction in Hierarchical Phrase-Based SMT"
+  authors: "Sophie Arnoult and Khalil Sima'an"
+  doc-url: https://ufal.mff.cuni.cz/~rosa/2015/docs/dmtw2015_02.pdf
+  booktitle: Deep MT Workshop
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2014
+  title: "Bilingual Markov Labels for Hierarchical SMT"
+  authors: "Gideon Maillette de Buy Wenniger and Khalil Sima'an"
+  doc-url: http://www.aclweb.org/anthology/W14-4002
+  booktitle: SSST 
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2014
+  title: "Latent Domain Phrase-Based Translation Models for Adaptation"
+  authors: "Hoang Cuong and Khalil Sima'an"
+  doc-url: http://www.aclweb.org/anthology/D14-1062
+  booktitle: EMNLP
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2014
+  title: "Latent Domain Translation Models in Mix-of-Domains Haystack"
+  authors: "Hoang Cuong and Khalil Sima'an"
+  doc-url: http://www.aclweb.org/anthology/C14-1182.pdf
+  booktitle: COLING
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2014
+  title: "How Synchronous are Adjuncts in Translation Data?"
+  authors: " Sophie Arnoult and Khalil Sima'an"
+  doc-url: http://www.aclweb.org/anthology/W/W14/W14-4019.pdf
+  booktitle: SSST
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2014
+  title: "All Fragments Count in Parser Evaluation"
+  authors: Joost Bastings and Khalil Sima’an
+  doc-url: http://www.lrec-conf.org/proceedings/lrec2014/pdf/376_Paper.pdf
+  booktitle: LREC
+  code: https://github.com/bastings/freval
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2014
+  title: "Visualization, Search and Analysis of Hierarchical Translation Equivalence in Machine Translation Data"
+  authors: "Gideon Maillette de Buy Wenniger and Khalil Sima'an"
+  doc-url: https://ufal.mff.cuni.cz/pbml/101/art-wenniger-simaan.pdf
+  booktitle: PBML
+  code: https://bitbucket.org/teamwildtreechase/hatparsing
