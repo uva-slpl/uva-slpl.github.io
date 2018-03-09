@@ -21,31 +21,83 @@ Our schedule will include a tutorial on variational inference and DMGs, research
 
 # Programme
 
-* [Variational Inference and Deep Generative Models](https://github.com/philschulz/VITutorial): We start with a tutorial on VI and DGMs which is also a dry-run for a tutorial to be presented at ACL2018. This is a 3h-long tutorial with a 30 minutes coffee break.
 
-* Lunch and posters
+**Tutorial**
 
-* Research talks I
-    * Latent variables for neural machine translation
-    * Learning word representations by marginalisation of latent alignments
-    * TBA
+[Variational Inference and Deep Generative Models](https://github.com/philschulz/VITutorial): We start with a tutorial on VI and DGMs which is also a dry-run for a tutorial to be presented at ACL2018. This is a 3h-long tutorial with a 30 minutes coffee break.
 
-* Coffee break
+**Lunch and posters**
 
-* Research talks II
-    * A joint model for neural machine translation
-    * Implicit models
-    * TBA
+**Research talks I**
 
-* Poster sessions with snacks and drinks
-    * Implicit language models
-    * Learning from monolingual data with REINFORCE
-    * Latent graphs and permutations for neural machine translation 
-    * Natural language inference for multiple domains
-    * TBA
-    * TBA
-    * TBA
-    * TBA
+<details>
+    <summary>
+        Bryan Eikema: <i>A joint model for neural machine translation.</i>
+    </summary>
+    <font color="darkgray">
+        TBA
+    </font>
+</details>
+<details>
+    <summary>
+        Philip Schulz: <i>Latent variables for neural machine translation.</i>
+    </summary>
+    <font color="darkgray">
+        TBA
+    </font>
+</details>
+<details>
+    <summary>
+        Ke Tran: <i>Inducing Grammars with and for Neural Machine Translation.</i>
+</summary>
+    <font color="darkgray">
+    Machine translation systems require semantic knowledge and grammatical understanding. Neural machine translation (NMT) systems often assume this information is captured by an attention mechanism and a decoder that ensures fluency.  Recent work has shown that incorporating explicit syntax alleviates the burden of modeling both types of knowledge. However, requiring parses is expensive and does not explore the question of what syntax a model needs during translation. To address both of these issues we introduce a model that simultaneously translates while inducing dependency trees.  In this way, we leverage the benefits of structure while investigating what syntax NMT must induce to maximize performance. We show that our dependency trees are 1. language pair dependent and 2. improve translation quality.
+    </font>
+</details>
+
+<br>
+
+**Coffee break**
+
+**Research talks II**
+
+<details>
+    <summary>
+        Miguel Rios: <i>Learning word representations by marginalisation of latent alignments.</i>
+    </summary>
+    <font color="darkgray">
+    TBA
+    </font>
+</details>
+<details>
+    <summary>
+        Wilker Aziz: <i>Implicit models.</i>
+    </summary>
+    <font color="darkgray">
+        <strong>TBA</strong><i></i>
+    </font>
+</details>
+<details>
+    <summary>
+        <i>TBA</i>
+    </summary>
+    <font color="darkgray">
+        TBA
+    </font>
+</details>
+
+<br>
+
+**Poster sessions with snacks and drinks**
+
+* Implicit language models
+* Learning from monolingual data with REINFORCE
+* Latent graphs and permutations for neural machine translation 
+* Natural language inference for multiple domains
+* TBA
+* TBA
+* TBA
+* TBA
 
 # Contact
 
