@@ -107,7 +107,8 @@
   poster: //jodaiber.github.io/doc/mtsummit2015_poster.pdf
   slides: //jodaiber.github.io/doc/clin2015_slides.pdf
   booktitle: "MT Summit"
-- layout: paper
+- 
+  layout: paper
   paper-type: inproceedings
   selected: y
   year: 2015
@@ -117,7 +118,8 @@
   talk: //jodaiber.github.io/doc/compound_analogy_slides.pdf
   code: //github.com/jodaiber/semantic_compound_splitting
   doc-url: //aclweb.org/anthology/W15-5703
-- layout: paper
+- 
+  layout: paper
   paper-type: inproceedings
   selected: y
   year: 2015
@@ -132,7 +134,7 @@
   selected: y
   year: 2015
   title: "Grasp: Randomised Semiring Parsing"
-  authors: Wilker Aziz
+  authors: "Wilker Aziz"
   booktitle: PBML
   doc-url: //ufal.mff.cuni.cz/pbml/104/art-aziz.pdf
   code: //github.com/wilkeraziz/grasp
@@ -196,7 +198,7 @@
   doc-url: //computing.dcu.ie/%7Egmdbwenniger/EfficientElasticSubstitutionDecodingForHierarchicalSMT.pdf
   slides: //computing.dcu.ie/%7Egmdbwenniger/EfficientElasticSubstitutionDecodingPresentationMTSummit2017.pdf
   code: //bitbucket.org/gwenniger/labeled-translation/
-  booktitle: MT Summit
+  booktitle: "MT Summit"
 -
   layout: paper
   paper-type: article
@@ -204,7 +206,7 @@
   year: 2017
   title: "Induction of Latent Domains in Heterogeneous Corpora: A Case Study of Word Alignment"
   authors: "Hoang Cuong and Khalil Sima'an"
-  booktitle: To appear in MT Journal
+  booktitle: "To appear in MT Journal"
 -
   layout: paper
   paper-type: article
@@ -212,7 +214,7 @@
   year: 2017
   title: A Survey of Domain Adaptation for Statistical Machine Translation
   authors: "Hoang Cuong and Khalil Sima'an"
-  booktitle: To appear in MT Journal
+  booktitle: "To appear in MT Journal"
 -
   layout: paper
   paper-type: inproceedings
@@ -258,7 +260,7 @@
   title: "Latent Domain Word Alignment for Heterogeneous Corpora"
   authors: "Hoang Cuong and Khalil Sima'an"
   doc-url: https://aclanthology.info/pdf/N/N15/N15-1043.pdf
-  booktitle: NAACL
+  booktitle: "NAACL"
 -
   layout: paper
   paper-type: inproceedings
@@ -267,7 +269,7 @@
   title: "Modelling the Adjunct/Argument Distinction in Hierarchical Phrase-Based SMT"
   authors: "Sophie Arnoult and Khalil Sima'an"
   doc-url: https://ufal.mff.cuni.cz/~rosa/2015/docs/dmtw2015_02.pdf
-  booktitle: Deep MT Workshop
+  booktitle: "Deep MT Workshop"
 -
   layout: paper
   paper-type: inproceedings
@@ -276,7 +278,7 @@
   title: "Bilingual Markov Labels for Hierarchical SMT"
   authors: "Gideon Maillette de Buy Wenniger and Khalil Sima'an"
   doc-url: http://www.aclweb.org/anthology/W14-4002
-  booktitle: SSST 
+  booktitle: "SSST"
 -
   layout: paper
   paper-type: inproceedings
@@ -285,7 +287,7 @@
   title: "Latent Domain Phrase-Based Translation Models for Adaptation"
   authors: "Hoang Cuong and Khalil Sima'an"
   doc-url: http://www.aclweb.org/anthology/D14-1062
-  booktitle: EMNLP
+  booktitle: "EMNLP"
 -
   layout: paper
   paper-type: inproceedings
@@ -294,25 +296,25 @@
   title: "Latent Domain Translation Models in Mix-of-Domains Haystack"
   authors: "Hoang Cuong and Khalil Sima'an"
   doc-url: http://www.aclweb.org/anthology/C14-1182.pdf
-  booktitle: COLING
+  booktitle: "COLING"
 -
   layout: paper
   paper-type: inproceedings
   selected: y
   year: 2014
   title: "How Synchronous are Adjuncts in Translation Data?"
-  authors: " Sophie Arnoult and Khalil Sima'an"
+  authors: "Sophie Arnoult and Khalil Sima'an"
   doc-url: http://www.aclweb.org/anthology/W/W14/W14-4019.pdf
-  booktitle: SSST
+  booktitle: "SSST"
 -
   layout: paper
   paper-type: inproceedings
   selected: y
   year: 2014
   title: "All Fragments Count in Parser Evaluation"
-  authors: Joost Bastings and Khalil Sima’an
+  authors: "Joost Bastings and Khalil Sima’an"
   doc-url: http://www.lrec-conf.org/proceedings/lrec2014/pdf/376_Paper.pdf
-  booktitle: LREC
+  booktitle: "LREC"
   code: https://github.com/bastings/freval
 -
   layout: paper
@@ -322,5 +324,5 @@
   title: "Visualization, Search and Analysis of Hierarchical Translation Equivalence in Machine Translation Data"
   authors: "Gideon Maillette de Buy Wenniger and Khalil Sima'an"
   doc-url: https://ufal.mff.cuni.cz/pbml/101/art-wenniger-simaan.pdf
-  booktitle: PBML
+  booktitle: "PBML"
   code: https://bitbucket.org/teamwildtreechase/hatparsing

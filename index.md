@@ -3,8 +3,8 @@ layout: main
 menu: no
 ---
 
-# About
 
+# About
 
 Find out more about our [lab](https://staff.fnwi.uva.nl/k.simaan/research_all.html) and our [PI](https://staff.fnwi.uva.nl/k.simaan/index.html).
 
