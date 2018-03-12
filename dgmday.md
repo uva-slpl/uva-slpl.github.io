@@ -11,9 +11,11 @@ menu: no
 On March 22 2018 we are gathering to present and discuss work on deep generative models (DGMs) and their applications to natural language processing. 
 Our schedule will include a tutorial on variational inference and DMGs, research talks, and posters.
 
-**Registration**  we invite colleagues from UvA to [register](https://docs.google.com/forms/d/e/1FAIpQLSfSzXOnb_5_4CLPBBzTtthm-k2U_qkYe2h52IMwgDoQdY7M-w/viewform?usp=sf_link) for free
+**Registration**  we invite colleagues from UvA to [register](https://docs.google.com/forms/d/e/1FAIpQLSfSzXOnb_5_4CLPBBzTtthm-k2U_qkYe2h52IMwgDoQdY7M-w/viewform?usp=sf_link) for free (we have 30 seats)
 
-**Schedule** a complete schedule and location will be announced soon.
+**Location** Room REC E0.15 at Roetersstraat 11, 1018 WB Amsterdam
+
+**Schedule** see below
 
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=aci7h1ua23taamdbat5hu73h14%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="600" height="300" frameborder="0" scrolling="no"></iframe>
