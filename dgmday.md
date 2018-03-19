@@ -37,15 +37,16 @@ Our schedule will include a tutorial on variational inference and DMGs, research
         Bryan Eikema: <i>A joint model for neural machine translation.</i>
     </summary>
     <font color="darkgray">
-        TBA
+        Neural machine translation (NMT) relies heavily on the availability of large amounts of sentence aligned parallel data. Not always is sufficient parallel data available for the desired language pair or domain. Vast amounts of monolingual data, however, are almost always available. One effective approach to incorporating monolingual target data in the training of an NMT system is to complete the monolingual data by pairing it with an automatic back-translation as a pre-processing step. However, it is unclear how much of such noisy bilingual data can be added before breaking the translation system. We propose a generative modeling approach by modeling the source and target side of the data jointly using a variational auto-encoder. Hereby we can probabilistically complete the data during training time, while allowing the model to distinguish between actual and synthetic parallel data. We show that our model improves on a standard NMT model with several BLEU points, but does not outperform the automatic back-translation approach. We speculate several causes of this and propose improvements for future work.
     </font>
 </details>
 <details>
     <summary>
-        Philip Schulz: <i>Latent variables for neural machine translation.</i>
+        Philip Schulz: <i>A Stochastic Decoder for Neural Machine Translation.</i>
     </summary>
     <font color="darkgray">
-        TBA
+        Neural Machine Translation (NMT) is becoming the dominant paradigm in automatic translation. One of the basic assumptions that still restricts NMT architectures, however, is that there is only one output (a distribution over target sentences) per source sentence. This makes current NMT systems very brittle and indeed their performance deteriorates quickly when they are presented with noisy data. It is also unsatisfying from a statistical perspective: we know that there is lexical and syntactic variation in human-produced translations and not accounting for this variation in our models is a bad design decision.
+    In this work, we present a stochastic decoder for NMT that contains a latent variable per target position. The latent variables are intended to capture the noise sources that underlie the observed variation in the produced translations. We use the latent variables as additional inputs when updating the decoder state. This has the following consequences: the decoder state itself is now stochastic and so is the attention mechanism which is a function of the decoder state. The model is implemented as a deep generative model, meaning that the latent distributions are computed by neural network regressors. We show empirically that our model improves translation quality and that it is indeed able to produce varied translations.
     </font>
 </details>
 <details>
@@ -68,7 +69,7 @@ Our schedule will include a tutorial on variational inference and DMGs, research
         Miguel Rios: <i>Learning word representations by marginalisation of latent alignments.</i>
     </summary>
     <font color="darkgray">
-    TBA
+        This work exploits translation data as a semantically relevant signal for learning word representations. In particular, we exploit translation equivalence as a form of distributed context for jointly learning how to embed and align with a deep generative model, where the latent lexical alignments are marginalized out. Our EmbedAlign model embeds words as posterior probability densities, rather than point estimates, which allows us to compare words in context using a measure of overlap between distributions (e.g. KL divergence). We investigate our model's performance on a range of lexical semantics tasks achieving competitive results on several standard benchmarks including natural language inference, paraphrasing, and text similarity.
     </font>
 </details>
 <details>
