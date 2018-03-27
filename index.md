@@ -11,6 +11,7 @@ Find out more about our [lab](https://staff.fnwi.uva.nl/k.simaan/research_all.ht
 # Courses
 
 * [NLP II](//uva-slpl.github.io/nlp2)
+* [ULL](//uva-slpl.github.io/ull)
 * [NLMI](//uva-slpl.github.io/nlmi)
 
 # Activities
