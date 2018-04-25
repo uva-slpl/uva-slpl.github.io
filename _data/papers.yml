@@ -3,6 +3,16 @@
   paper-type: inproceedings
   selected: y
   year: 2018
+  title: "A Stochastic Decoder for Neural Machine Translation"
+  authors: "Philip Schulz, Wilker Aziz and Trevor Cohn"
+  arxiv:
+  code: 
+  booktitle: "To appear in ACL18"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
   title: "Deep Generative Model for Joint Alignment and Word Representation"
   authors: "Miguel Rios, Wilker Aziz, Khalil Sima'an"
   arxiv: //arxiv.org/abs/1802.05883
