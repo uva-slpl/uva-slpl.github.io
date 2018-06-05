@@ -5,8 +5,8 @@
   year: 2018
   title: "A Stochastic Decoder for Neural Machine Translation"
   authors: "Philip Schulz, Wilker Aziz and Trevor Cohn"
-  arxiv:
-  code: 
+  arxiv: https://arxiv.org/abs/1805.10844
+  code: https://github.com/philschulz/stochastic-decoder 
   booktitle: "To appear in ACL18"
 -
   layout: paper
@@ -15,9 +15,10 @@
   year: 2018
   title: "Deep Generative Model for Joint Alignment and Word Representation"
   authors: "Miguel Rios, Wilker Aziz, Khalil Sima'an"
+  doc-url: http://aclweb.org/anthology/N18-1092 
   arxiv: //arxiv.org/abs/1802.05883
   code: //github.com/uva-slpl/embedalign
-  booktitle: "To appear in NAACL18"
+  booktitle: "NAACL-HLT"
 -
   layout: paper
   paper-type: inproceedings
