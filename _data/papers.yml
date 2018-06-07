@@ -19,6 +19,7 @@
   arxiv: //arxiv.org/abs/1802.05883
   code: //github.com/uva-slpl/embedalign
   booktitle: "NAACL-HLT"
+  slides: //wilkeraziz.github.io/slides/embedalign-naacl18.pdf
 -
   layout: paper
   paper-type: inproceedings
