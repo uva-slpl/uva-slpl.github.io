@@ -3,11 +3,22 @@
   paper-type: inproceedings
   selected: y
   year: 2018
+  title: "Auto-Encoding Variational Neural Machine Translation"
+  authors: "Bryan Eikema and Wilker Aziz"
+  arxiv: //arxiv.org/abs/1807.10564
+  code: //github.com/Roxot/AEVNMT
+  booktitle: "Pre-print"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
   title: "A Stochastic Decoder for Neural Machine Translation"
   authors: "Philip Schulz, Wilker Aziz and Trevor Cohn"
-  arxiv: https://arxiv.org/abs/1805.10844
-  code: https://github.com/philschulz/stochastic-decoder 
-  booktitle: "To appear in ACL18"
+  doc-url: //aclweb.org/anthology/P18-1115
+  arxiv: //arxiv.org/abs/1805.10844
+  code: //github.com/philschulz/stochastic-decoder 
+  booktitle: "ACL"  
 -
   layout: paper
   paper-type: inproceedings
@@ -20,6 +31,16 @@
   code: //github.com/uva-slpl/embedalign
   booktitle: "NAACL-HLT"
   slides: //wilkeraziz.github.io/slides/embedalign-naacl18.pdf
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
+  title: "Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks"
+  authors: "Diego Marcheggiani, Joost Bastings and Ivan Titov"
+  doc-url: //aclweb.org/anthology/N18-2078
+  arxiv: //arxiv.org/abs/1804.08313
+  booktitle: "NAACL-HLT"
 -
   layout: paper
   paper-type: inproceedings
