@@ -1,13 +1,22 @@
 -
   layout: paper
-  paper-type: inproceedings
+  paper-type: pre-print
+  selected: y
+  year: 2018
+  title: "Question Answering by Reasoning Across Documents with Graph Convolutional Networks"
+  authors: "Nicola De Cao, Wilker Aziz and Ivan Titov"
+  arxiv: //arxiv.org/abs/1808.09920
+  booktitle: "arXiv:1808.0992"
+-
+  layout: paper
+  paper-type: pre-print
   selected: y
   year: 2018
   title: "Auto-Encoding Variational Neural Machine Translation"
   authors: "Bryan Eikema and Wilker Aziz"
   arxiv: //arxiv.org/abs/1807.10564
   code: //github.com/Roxot/AEVNMT
-  booktitle: "Pre-print"
+  booktitle: "arXiv:1807.10564"
 -
   layout: paper
   paper-type: inproceedings
