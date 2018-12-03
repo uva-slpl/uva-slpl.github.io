@@ -3,6 +3,15 @@
   paper-type: pre-print
   selected: y
   year: 2018
+  title: "Latent Visual Clues for Neural Machine Translation"
+  authors: "Iacer Calixto, Miguel Rios and Wilker Aziz"
+  arxiv: //arxiv.org/abs/1811.00357
+  booktitle: "arXiv:1811.0035"
+-
+  layout: paper
+  paper-type: pre-print
+  selected: y
+  year: 2018
   title: "Question Answering by Reasoning Across Documents with Graph Convolutional Networks"
   authors: "Nicola De Cao, Wilker Aziz and Ivan Titov"
   arxiv: //arxiv.org/abs/1808.09920
