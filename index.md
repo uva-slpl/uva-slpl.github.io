@@ -14,6 +14,8 @@ Find out more about our [lab](https://staff.fnwi.uva.nl/k.simaan/research_all.ht
 * [ULL](//uva-slpl.github.io/ull)
 * [NLMI](//uva-slpl.github.io/nlmi)
 
+* Check our [tutorial on variational inference and deep generative models](http://wilkeraziz.github.io/vitutorial): this is our [repository](https://github.com/philschulz/VITutorial) and [tour](https://github.com/philschulz/VITutorial#tour)
+
 # Activities
 
 * [Reading groups](//wilkeraziz.github.io/events.html)
